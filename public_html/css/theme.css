@@ -9750,4 +9750,14 @@ footer .copy-right a {
   color: #586C88;
 }
 
+.about-content {
+  padding: 50px 0;
+}
+
+@media (min-width: 992px) {
+  .about-content {
+    padding: 104px 0;
+  }
+}
+
 /*# sourceMappingURL=theme.css.map */
